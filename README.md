@@ -1,4 +1,3 @@
 # hello-world
-start up
 
-hello whats poppin
+This is the new update tp 'hello world'
